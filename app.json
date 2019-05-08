@@ -1,6 +1,6 @@
 {
-  "name": "shadowsocks-heroku",
-  "description": "shadowsocks-heroku",
+  "name": "leo1601-heroku",
+  "description": "leo1601-heroku",
   "env": {
     "METHOD": {
       "description": "加密算法",
